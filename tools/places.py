@@ -1,5 +1,5 @@
 import requests
-
+API_KEY = "5417371de3f34e89bda714515ee6929d"
 
 def find_places(city: str):
 
