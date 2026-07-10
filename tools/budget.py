@@ -1,6 +1,6 @@
 import requests
 
-
+API_KEY = "5417371de3f34e89bda714515ee6929d"
 
 hotel_prices = {
     "dubai": 12000,
